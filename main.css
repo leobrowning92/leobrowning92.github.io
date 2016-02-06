@@ -14,7 +14,7 @@
   background-image:url("http://i.imgur.com/HjduKJc.jpg");
   height: 500px;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% ;
   background-position: bottom;
 }
 
