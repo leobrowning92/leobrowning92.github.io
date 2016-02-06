@@ -11,7 +11,7 @@
 }
 
 .jumbotron {
-  background-image:url(http://nexus-wallpaper.com/wp-content/uploads/2013/06/minimalistic-science-wallpaper.jpg);
+  background-image:url("IMG_1658.jpg");
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -34,20 +34,7 @@
   color: #fff;
 }
 
-.neighborhood-guides{
-    background-color:#efefef;
-    border-bottom:1px solid #dbdbdb;
-}
 
-.neighborhood-guides h2{
-    color:#393c3d;
-    font-size:24px;
-}
-
-.neighborhood-guides p{
-    font-size:15px;
-    margin-bottom:13px;
-}
 
 .learn-more {
   background-color: #f7f7f7;
